@@ -1,2 +1,2 @@
 # TugasBesar1_DeepLearning
-Image Classification
+Text Prediction
